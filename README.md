@@ -29,14 +29,21 @@ Instructions:
 
 ## Here is the Classifier in Action :
 
-![1](https://user-images.githubusercontent.com/33639642/42782340-9ce253da-8916-11e8-90dd-03095b14977c.png)
+![3](https://user-images.githubusercontent.com/33639642/42782708-ac222432-8917-11e8-84d8-c459e4aa246d.PNG)
+
+
 
 
 ### Classifying a Dog Image :-
 
-![2](https://user-images.githubusercontent.com/33639642/42782371-b573a052-8916-11e8-8312-476f12e9e209.png)
+![1](https://user-images.githubusercontent.com/33639642/42782720-b7b2a1e6-8917-11e8-8baa-870ee632a415.PNG)
+
+
 
 
 ### Classifying a Cat Image :-
 
-![3](https://user-images.githubusercontent.com/33639642/42782385-c151b1de-8916-11e8-88a6-3a5dd7acf9bb.png)
+![2](https://user-images.githubusercontent.com/33639642/42782729-bfe22ee0-8917-11e8-8173-1beabdd0ec1e.PNG)
+
+
+
